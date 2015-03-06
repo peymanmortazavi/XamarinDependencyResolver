@@ -1,0 +1,1 @@
+mono /bin/NuGet.exe $@
